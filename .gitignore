@@ -1,0 +1,70 @@
+# Ignore node_modules
+node_modules/
+
+# Ignore IDE and text editor files
+.vscode/
+.vscode-test/
+.vscode-test.mjs
+.idea/
+.vs/
+.vscodeignore
+eslint.config.mjs
+
+# Ignore build files
+*.vsix
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore compiled files
+*.css
+*.js.map
+
+# Ignore configuration files
+*.yml
+*.ini
+*.json
+
+# Ignore build directories
+build/
+dist/
+public/
+out/
+
+# Ignore version control directories
+.git/
+.svn/
+
+# Ignore package managers' lock files
+yarn.lock
+package-lock.json
+
+# Ignore documentation
+docs/
+apidoc/
+
+# Ignore test results and coverage reports
+test-results/
+coverage/
+
+# Ignore temporary files
+*.tmp
+*.bak
+*.swp
+
+# Ignore log files
+*.log
+
+# Ignore cache directories
+cache/
+tmp/
+
+# Ignore assets that can be generated
+assets/
+images/
+fonts/
+
+# Ignore any user-specific files or directories
+*.local
+*.local-*
