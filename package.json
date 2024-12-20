@@ -4,7 +4,7 @@
   "description": "A dark theme with calm colors for a serene coding experience",
   "publisher": "sirEven",
   "icon": "images/icon.png",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.96.0"
   },
