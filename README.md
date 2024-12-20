@@ -9,9 +9,9 @@ Works great with Material Theme Icons (eq-material-theme-icons).
 
 ## Screenshots
 
-![Screenshot of the theme in action](screenshot_1.png)
-![Close up  of activity bar next to the icons](screenshot_2.png)
-![And some buttons](screenshot_3.png)
+![Screenshot of the theme in action](/images/screenshot_1.png)
+![Close up  of activity bar next to the icons](/images/screenshot_2.png)
+![And some buttons](/images/screenshot_3.png)
 
 # License
 
