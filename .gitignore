@@ -24,7 +24,7 @@ Thumbs.db
 # Ignore configuration files
 *.yml
 *.ini
-*.json
+tsconfig.json
 
 # Ignore build directories
 build/
