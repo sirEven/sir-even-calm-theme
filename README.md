@@ -3,11 +3,15 @@
 A dark theme with calm colors for a serene coding experience in Visual Studio Code.
 Based on DuoTone Dark Sea.
 
-[Marketplace](https://marketplace.visualstudio.com/items?itemName=sirEven.sir-even-calm-theme) 
+Works great with Material Theme Icons (eq-material-theme-icons).
+
+[Link to Marketplace](https://marketplace.visualstudio.com/items?itemName=sirEven.sir-even-calm-theme) 
 
 ## Screenshots
 
-![Screenshot of the theme in action](screenshot.png)
+![Screenshot of the theme in action](screenshot_1.png)
+![Close up  of activity bar next to the icons](screenshot_2.png)
+![And some buttons](screenshot_3.png)
 
 # License
 
