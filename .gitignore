@@ -62,7 +62,6 @@ tmp/
 
 # Ignore assets that can be generated
 assets/
-images/
 fonts/
 
 # Ignore any user-specific files or directories
